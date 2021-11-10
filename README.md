@@ -27,3 +27,4 @@ What product is our star?
 
 ### Note
 Credit to Keith Galli for the data and the solutions! This was quite the maniulation brain teaser.
+https://www.youtube.com/watch?v=eMOA1pPVUc4
